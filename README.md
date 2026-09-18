@@ -9,10 +9,10 @@ A React Native (Expo) mobile app built for ITMSD1 — Lab Activity 03. It simula
 - Peer Props Demo — renders a second student card to prove component reusability
 
 ## Getting Started
-\`\`\`bash
+```bash
 npm install
 npx expo start
-\`\`\`
+```
 Scan the QR code with the Expo Go app on your phone to run it.
 
 ## Author
